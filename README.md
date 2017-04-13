@@ -1,2 +1,2 @@
 # arduino-mz80
-product counting with MZ-80 motion sensor with Arduino and C#
+product counting program with MZ-80 motion sensor on Arduino and C#
